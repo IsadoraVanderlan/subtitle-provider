@@ -4,7 +4,7 @@
  Este programa é dedicados aos programadores ADVPL.
 =======
  
-Este programa tem como objetivo criar legandas para diferenciação de cadastros usando a função BrwLegenda.
+Este programa tem como objetivo criar legandas para diferenciação de cadastros.
 
   - Função BrwLegenda.
   - Função FilBrawse.
