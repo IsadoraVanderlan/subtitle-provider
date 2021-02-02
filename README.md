@@ -1,10 +1,10 @@
 #  subtitle
  Criação de Leganda para Rotinas Protheus.
  
- Este projeto é dedicados aos programadores ADVPL.
+ Este programa é dedicados aos programadores ADVPL.
 =======
  
-Este programa tem como objetivo criar legandas para diferenciação de cadastros usando a função BrwLegenda
+Este programa tem como objetivo criar legandas para diferenciação de cadastros usando a função BrwLegenda.
 
   - Função BrwLegenda.
   - Função FilBrawse.
@@ -12,8 +12,8 @@ Este programa tem como objetivo criar legandas para diferenciação de cadastros
 
 # Participe deste projeto.
 
-- Publique seus exemplos
+- Publique seus exemplos.
 
 
 
-=======
+
