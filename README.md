@@ -10,10 +10,6 @@ Este programa tem como objetivo criar legandas para diferenciação de cadastros
   - Função FilBrawse.
 
 
-# Participe deste projeto.
-
-- Publique seus exemplos.
-
 
 
 
