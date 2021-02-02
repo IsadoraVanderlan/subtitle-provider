@@ -5,7 +5,7 @@
 =======
  
 Este programa tem como objetivo criar legandas para diferenciação de cadastros usando a função BrwLegenda
-[
+
   - Função BrwLegenda.
   - Função FilBrawse.
 
@@ -13,5 +13,7 @@ Este programa tem como objetivo criar legandas para diferenciação de cadastros
 # Participe deste projeto.
 
 - Publique seus exemplos
+
+
 
 =======
