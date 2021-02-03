@@ -1,5 +1,5 @@
 #  subtitle
- Criação de Leganda para Rotinas Protheus.
+ Criação de Legenda para Rotinas Protheus.
  
  Este programa é dedicados aos programadores ADVPL.
 =======
