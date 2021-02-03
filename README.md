@@ -6,8 +6,9 @@
  
 Este programa tem como objetivo criar legendas para diferenciação de cadastros.
 
-  - Função BrwLegenda.
   - Função FilBrowse.
+  - Função mBrowse.
+  - Função BrwLegenda.
 
 
 
