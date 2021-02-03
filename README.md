@@ -1,2 +1,2 @@
 #  subtitle
- Criação de Leganda.
+ Criação de Legenda.
